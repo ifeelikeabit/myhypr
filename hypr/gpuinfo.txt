@@ -1,0 +1,4 @@
+Integrated GPU = card1
+
+
+Nvidia GPU = card0
